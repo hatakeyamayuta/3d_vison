@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/Res_pose.dir/main.cpp.o  -o Res_pose /usr/local/lib/librealsense2.so.2.19.1 -Wl,-rpath,/usr/local/lib 

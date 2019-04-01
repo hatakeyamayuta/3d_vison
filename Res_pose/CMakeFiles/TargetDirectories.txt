@@ -1,0 +1,3 @@
+/home/htk/sample/3d_vison/Res_pose/CMakeFiles/edit_cache.dir
+/home/htk/sample/3d_vison/Res_pose/CMakeFiles/rebuild_cache.dir
+/home/htk/sample/3d_vison/Res_pose/CMakeFiles/Res_pose.dir
